@@ -1156,10 +1156,10 @@ return (
              {activeView === 'tool' && renderTools()}
              {activeView === 'form' && renderProforma()}
 
-         </div>
-      </main>
-    </div>
-  );
-};
+       </div>
+    </main>
+  </div>
+);
+}; 
 
 export default StudentDashboard;
