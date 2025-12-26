@@ -1,5 +1,5 @@
-import LandingPageInteractive from './landing-page/components/LandingPageInteractive';
+import NewDesign from './landing-page/page';
 
 export default function Home() {
-  return <LandingPageInteractive />;
+  return <NewDesign />;
 }
