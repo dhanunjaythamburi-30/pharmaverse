@@ -1156,12 +1156,11 @@ return (
              {activeView === 'tool' && renderTools()}
              {activeView === 'form' && renderProforma()}
 
-// Ensure this is the absolute bottom of the file
           </div>
         </div>
       </main>
     </div>
   );
-}; // This closes the StudentDashboard function
+}; 
 
 export default StudentDashboard;
