@@ -1,3 +1,5 @@
+"use client";
+
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Facebook, Twitter, Instagram, Linkedin, Mail } from 'lucide-react';
