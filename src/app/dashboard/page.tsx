@@ -1163,4 +1163,4 @@ return (
   );
 }; 
 
-export default StudentDashboard;
+export default Dashboard;
